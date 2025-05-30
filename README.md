@@ -46,7 +46,7 @@ I recently completed my DAM (Development of Multi-Platform Applications) cycle a
 
 ## 🔗 Connect with me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)
+- 💼 [LinkedIn](https://www.linkedin.com/in/guillermo-robles-l%C3%B3pez-33918a368/)
 - 📫 Feel free to reach out via LinkedIn or open an issue here!
 
 ---
